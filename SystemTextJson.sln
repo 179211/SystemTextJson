@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemTextJson", "SystemTextJson.csproj", "{FA57CE87-8ECE-4FD0-BD58-01E5E59AAE3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA57CE87-8ECE-4FD0-BD58-01E5E59AAE3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA57CE87-8ECE-4FD0-BD58-01E5E59AAE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA57CE87-8ECE-4FD0-BD58-01E5E59AAE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA57CE87-8ECE-4FD0-BD58-01E5E59AAE3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2741507-A89F-49C2-B72B-10687D445E44}
+	EndGlobalSection
+EndGlobal
